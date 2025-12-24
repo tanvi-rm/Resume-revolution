@@ -66,6 +66,13 @@ The platform focuses on ease of use, consistency, and efficiency, ensuring a sea
 
 ---
 
+## 📸 Project Screenshots
+
+👉 Click here to view all screenshots:  
+📂 **[Screenshots Gallery](./screenshots/README.md)**
+
+---
+
 ## 🌟 Key Benefits
 - No design skills required
 - Consistent and professional resume formats
